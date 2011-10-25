@@ -7,9 +7,15 @@ Install
 Clone this repository in
 
 * Windows: `%APPDATA%/Roaming/Sublime Text 2/Packages/`
-* Mac: `~/Library/Application Support/Sublime Text 2/Packages/`
+* OSX: `~/Library/Application Support/Sublime Text 2/Packages/`
 * Linux: `~/.Sublime Text 2/Packages/`
+* Portable Installation: `Sublime Text 2/Data/`
 
-Add shortcut for this command in `Preferences > Key Bindings - User`.
+Usage
+=====
+Add shortcut for this command in `Preferences > Key Bindings – User`:
 
-	{ "keys": ["ctrl+alt+/"], "command": "random_message" }
+* Windows / Linux: `{ "keys": ["ctrl+alt+/"], "command": "random_message" }`
+* OSX: `{ "keys": ["super+ctrl+/"], "command": "random_message" }`
+
+or use `Command Palette > Random Message: Insert Random Message`
