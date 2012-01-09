@@ -1,6 +1,8 @@
-About
+Random Message
 =====
-Random Message - is a plugin for [Sublime Text 2](http://www.sublimetext.com/2). It get message from [Commit message generator](http://whatthecommit.com/) and replace your current selection.
+Plugin for [Sublime Text 2](http://www.sublimetext.com/2). It get message from [Commit message generator](http://whatthecommit.com/) and replace your current selection.
+
+![How to](https://github.com/kutu/RandomMessage/raw/master/how_to.gif)
 
 Install
 =======
