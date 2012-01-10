@@ -6,7 +6,11 @@ Plugin for [Sublime Text 2](http://www.sublimetext.com/2). It get message from [
 
 Install
 =======
-Clone this repository in
+Through [Package Control](http://wbond.net/sublime_packages/package_control)
+
+`Command Palette` > `Package Control: Install Package` > `Random Message`
+
+or clone this repository in
 
 * Windows: `%APPDATA%/Roaming/Sublime Text 2/Packages/`
 * OSX: `~/Library/Application Support/Sublime Text 2/Packages/`
@@ -15,9 +19,9 @@ Clone this repository in
 
 Usage
 =====
-Add shortcut for this command in `Preferences > Key Bindings – User`:
+Add shortcut for this command in `Preferences` > `Key Bindings – User`:
 
 * Windows / Linux: `{ "keys": ["ctrl+alt+/"], "command": "random_message" }`
 * OSX: `{ "keys": ["super+ctrl+/"], "command": "random_message" }`
 
-or use `Command Palette > Random Message: Insert Random Message`
+or use `Command Palette` > `Random Message: Insert Random Message`
